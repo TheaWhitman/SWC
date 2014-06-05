@@ -1,3 +1,3 @@
 Another file to practice with
 For example, by editing it.
-What if there is a version that conflicts here?
+What if there is a version conflict in the same place?
