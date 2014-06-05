@@ -1,1 +1,5 @@
 Learning about Git with SWC.
+
+Practicing the difference between staging and commiting.
+
+And what if you don't commit between changes?
