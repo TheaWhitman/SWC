@@ -1,2 +1,3 @@
 Another file to practice with
 For example, by editing it.
+Oh no - there's a conflict in the same place.
